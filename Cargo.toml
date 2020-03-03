@@ -1,5 +1,5 @@
 [package]
-name = "vim_switch_plugin"
+name = "vim_switch_plugin_rust"
 version = "0.1.0"
 authors = ["yatoogamii <bracaval.elias.pro@gmail.com>"]
 edition = "2018"
